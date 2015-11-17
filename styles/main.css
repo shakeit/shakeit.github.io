@@ -282,8 +282,13 @@
     width: 100%;
   }
   /* line 10, app/sass/layouts/header_mx.scss */
-  .header__deck {
+  .header__deck_info {
     display: none;
+
+  }
+
+  .header__deck {
+    font-size: 16px
   }
   /* line 16, app/sass/layouts/header_mx.scss */
   .header__iphone {
